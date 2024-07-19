@@ -1,0 +1,49 @@
+body {
+	background-color: #101827;
+	color: White;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.tip-box {
+	background-color: #DCE8E8;
+	color: Black;
+	padding: 12px;
+	margin: 20px;
+}
+
+.top-image {
+	height: 390px;
+	float: left;
+	margin: 20px;
+}
+
+#lasagna-top {
+	height: 380px;
+}
+
+.center-list {
+	text-align: center;
+}
+
+.center-list > ul, .center-list > ol {
+	display: inline-block;
+}
+
+.center-text {
+	text-align: center;
+}
+
+a {
+	color: Red;
+}
+
+.section {
+	margin: 20px;
+}
+
+#mac-top {
+	height: 289px;
+}
